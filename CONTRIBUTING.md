@@ -69,7 +69,7 @@ En la sección de Issues, encontrarás tareas con etiquetas que te ayudarán a e
 
 ## 👥 **Código de Conducta**
 
-Este proyecto sigue el [Código de Conducta de la Contributor Covenant](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/), para garantizar un entorno inclusivo y respetuoso para todos los colaboradores. Te pedimos que lo leas y lo sigas en todo momento.
+Este proyecto sigue el [Código de Conducta de la Contributor Covenant](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/), para garantizar un entorno inclusivo y respetuoso para todos, todas y todes. Te pedimos que lo leas y lo sigas en todo momento.
 
 ---
 
