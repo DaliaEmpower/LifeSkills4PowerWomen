@@ -11,15 +11,31 @@ A lo largo de Hacktoberfest, invitamos a todos los interesados en ciencia de dat
 1. **Clona el repositorio**
    - Haz un fork del repositorio y luego clónalo a tu máquina local:
      ```bash
-     git clone https://github.com/TU-USUARIO/lifeskills-for-power-women.git
-     cd lifeskills-for-power-women
+     git clone https://github.com/TU-USUARIO/LifeSkills4PowerWomen.git
+     cd LifeSkills4PowerWomen
      ```
 
-2. **Instala las dependencias**
+2. **Instala las dependencias localmente**
    - Asegúrate de tener Python y pip instalados. Luego instala las bibliotecas necesarias:
      ```bash
      pip install -r requirements.txt
      ```
+    #### **O usa Google Colab**
+
+   Si prefieres no configurar el entorno local, puedes ejecutar y colaborar directamente desde **Google Colab**, sin necesidad de instalar nada en tu computadora.
+
+   **Pasos para Colaborar en Google Colab**:
+
+   1. Abre este enlace para iniciar el notebook en Google Colab: [Abrir en Google Colab](https://colab.research.google.com/).
+   2. Sube el archivo `.ipynb` que desees trabajar desde la carpeta `Notebooks/`.
+   3. Asegúrate de clonar el repositorio y cargar los datos dentro de Colab:
+   - Ejecuta las siguientes celdas en el notebook para clonar el repositorio y acceder a los datasets:
+     ```python
+     !git clone https://github.com/TU-USUARIO/LifeSkills4PowerWomen.git
+     %cd LifeSkills4PowerWomen
+     ```
+   4. Realiza el análisis, las visualizaciones o los cambios necesarios en Colab.
+   5. Descarga el notebook actualizado desde Google Colab y realiza un pull request (PR) desde tu máquina local siguiendo los pasos mencionados anteriormente.
 
 3. **Selecciona un Tarea**
    - Consulta la lista de "Issues" en el repositorio y selecciona una tarea que se ajuste a tus intereses y nivel de experiencia. ¡Las tareas están etiquetadas para ayudarte a encontrar la más adecuada para ti!
