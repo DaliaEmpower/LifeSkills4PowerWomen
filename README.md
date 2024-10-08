@@ -1,6 +1,6 @@
 # LifeSkills for Power Women
 
-¡Bienvenidos/as/es a Hacktoberfest 2024 con Dalia Empower! Este repositorio tiene como objetivo analizar datos relacionados con habilidades para la vida (LifeSkills) y su impacto en el desarrollo personal y profesional de mujeres. Queremos generar insights que ayuden a entender cómo habilidades como comunicación efectiva, inteligencia emocional, resiliencia y toma de decisiones influyen en el éxito laboral, académico y social de mujeres.
+¡Bienvenidos/as/es a Hacktoberfest 2024 con Dalia Empower! Este repositorio tiene como objetivo analizar datos relacionados con habilidades para la vida (LifeSkills) y su impacto en el desarrollo personal y profesional de mujeres. Queremos generar insights que ayuden a entender cómo las habilidades como comunicación efectiva, inteligencia emocional, resiliencia y toma de decisiones influyen en el éxito laboral, académico y social de mujeres.
 
 A lo largo de Hacktoberfest, invitamos a todos los interesados en ciencia de datos, empoderamiento femenino y LifeSkills a contribuir a este proyecto para crear visualizaciones y análisis significativos.
 
